@@ -1,4 +1,4 @@
-## Interface: 70300
+## Interface: 80100
 ## Title: MoveAnything
 ## Version: 16.3.2
 ## Author: Wagthaa
